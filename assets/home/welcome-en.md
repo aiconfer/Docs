@@ -1,8 +1,6 @@
 # Welcome
 
-Welcome to the [AI CONFER](https://aiconfer.com) documentation. AI Confer is an artistic and inventive community driven by AI which is powered by OpenAI.
-Here, you have the freedom to freely create an assistant, interact with it, and distribute it among others. 
-AI Confer facilitates a variety of assistants, ranging from those that are character-based to those that are product or service-oriented, and even custom assistants. Furthermore, you can also provide your assistant with your own data and converse with it on that basis. It is incumbent upon us to ensure the security of your data.
+Welcome to the [AI CONFER](https://aiconfer.com) documentation. AI Confer is an artistic and inventive community driven by AI which is powered by OpenAI. Here, you have the freedom to freely create an assistant, interact with it, and distribute it among others. AI Confer facilitates a variety of assistants, ranging from those that are character-based to those that are product or service-oriented, and even custom assistants. Furthermore, you can also provide your assistant with your own data and converse with it on that basis. It is incumbent upon us to ensure the security of your data.
 
 
 # Features
