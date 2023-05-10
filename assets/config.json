@@ -1,0 +1,50 @@
+{
+  "siteName": "AICONFER",
+  "logo": "assets/logo.png",
+  "languages": [
+    {
+      "name": "简体中文",
+      "code": "zh"
+    },
+    {
+      "name": "English",
+      "code": "en"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/AiConfer",
+      "icon": "twitter"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/aiconfer",
+      "icon": "github"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCbLGVbs_3V4hkZHVdfk-ZpA",
+      "icon": "youtube"
+    }
+  ],
+  "navigation": [
+    {
+      "name": "Home",
+      "type": "dropDown",
+      "state": "home",
+      "docPath": "assets/home/welcome.md",
+      "disabled": false,
+      "icon": "home",
+      "sub":[
+        {
+          "name": "Welcome",
+          "type": "link",
+          "state": "welcome",
+          "docPath": "assets/home/welcome.md",
+          "tocEnabled": false
+        }
+      ]
+    }
+  ]
+}
