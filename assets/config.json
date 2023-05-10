@@ -1,5 +1,5 @@
 {
-  "siteName": "AICONFER",
+  "siteName": "AI CONFER",
   "logo": "assets/logo.png",
   "languages": [
     {
@@ -45,6 +45,14 @@
           "tocEnabled": false
         }
       ]
+    },
+    {
+      "name": "AICONFER",
+      "type": "extLink",
+      "state": "https://aiconfer.com",
+      "docPath": "",
+      "disabled": false,
+      "icon": ""
     }
   ]
 }
