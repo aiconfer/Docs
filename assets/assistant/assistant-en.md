@@ -13,9 +13,12 @@ We support three types of visibility for each assistant, private, public, or gra
 
     You can create an assistant in public mode, thus anyone can talk to this assistant. You can also decide whether to receive email notifications when someone is interacting with this assistant.
 
-    
+ - Team Assistant
+
+    You can also create an assistant for a group of people, such as your family, team, fans, or your own community. By default, team assistant is in private mode, and you should grant access permission to specific users manually.
 
 
 
-### [Lear more about character-based assistant](https://docs.aiconfer.com/assistant/assistant-character) 
+
+### [Lear more about character-based assistant](https://docs.aiconfer.com/guide/assistant/assistant-character) 
 
