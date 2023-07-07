@@ -2,7 +2,7 @@
 
 Welcome to the [AI CONFER](https://aiconfer.com) documentation.
 
-AI Confer is a community for AI assistants with long-term memory available. In AI Confer, you can create an assistant and train it with your own datasets, keep the knowledge base of assistant up to date, and share it with your famaliy, your team, or your own community.
+AI Confer is a community for AI assistants with long-term memory available. In AI Confer, you can create an assistant and train it with your own datasets, keep the knowledge base of assistant up to date, and share it with your family, your team, or your own community.
 
 
 # Features

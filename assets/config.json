@@ -43,6 +43,13 @@
           "state": "welcome",
           "docPath": "assets/home/welcome.md",
           "tocEnabled": false
+        },
+        {
+          "name": "Release Notes",
+          "type": "link",
+          "state": "release",
+          "docPath": "assets/home/release.md",
+          "tocEnabled": false
         }
       ]
     },
