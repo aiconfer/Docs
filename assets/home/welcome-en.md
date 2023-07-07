@@ -1,23 +1,38 @@
 # Welcome
 
-Welcome to the [AI CONFER](https://aiconfer.com) documentation. AI Confer is an artistic and inventive community driven by AI which is powered by OpenAI. Here, you have the freedom to freely create an assistant, interact with it, and distribute it among others. AI Confer facilitates a variety of assistants, ranging from those that are character-based to those that are product or service-oriented, and even custom assistants. Furthermore, you can also provide your assistant with your own data and converse with it on that basis. It is incumbent upon us to ensure the security of your data.
+Welcome to the [AI CONFER](https://aiconfer.com) documentation.
+
+AI Confer is a community for AI Assistants with long-term memeory availiable. In AI Confer, you can create an assistant and train it with your own datasets, keep the knowledge database of the assistant up to date, and share it with your famaliy, your team, or your own community.
 
 
 # Features
 
-+ Create assistant based on custom model, such as GPT-3, GPT-4, ChatGPT API, or your own fine-tuned model.
-+ Chat with your own datasets(pdf, text, .etc), support chat with multiple datasets.
-+ Chat with browsing mode.
-+ Enhanced encryption for conversations and datasets.
-+ Conversation contexts.
++ Create unlimited assistant from mulitple model providers, OpenAI or Google.
++ Chat with your own datasets(pdf, text, doc/docx, git repository .etc).
++ Support multiple datasets per assistant.
++ Support private, public, or team assistant. 
++ Enhanced encryption for conversation data.
++ Enhanced encryption for datasets uploaded.
++ Conversation context supported.
 + Voice input/output, above 10 languages.
 + Conversation history exploration and exportation.
-+ Custom conversation parameters, such as Top P, Temperature, .etc.
++ Custom LLM parameters, such as Top P, Temperature, .etc.
 + Stream mode and markdown integration.
++ And much more!
 
 
+# Assistant Models supported
+
+## OpenAI:
++  gpt-4-0613
++  gpt-4-32k-0613
++  gpt-3.5-turbo-0613
++  gpt-3.5-turbo-16k
++  text-davinci-003
+
+## Google Vertex AI
++  chat-bison@001
 
 # Support & Help
 
-We value and appreciate your feedback, bug reports, and feature requests. You may locate us on [Twitter](https://twitter.com/AiConfer), [YouTube](https://www.youtube.com/channel/UCbLGVbs_3V4hkZHVdfk-ZpA),
-or join our [Discord](https://discord.gg/RrVaSK7quR) to directly communicate with us. In addition, please do not hesitate to send us an [Email](mailto:support@aiconfer.com) if you have any inquiries.
+We value and appreciate your feedback, bug reports, and feature requests. You may reach us on [Twitter](https://twitter.com/AiConfer), [YouTube](https://www.youtube.com/channel/UCbLGVbs_3V4hkZHVdfk-ZpA), or join our [Discord](https://discord.gg/4JaeYr9Vqk) to directly communicate with us. In addition, please do not hesitate to send us an [Email](mailto:support@aiconfer.com) if you have any inquiries.
