@@ -1,12 +1,10 @@
 # AI Confer Release Notes
 
 ## Updates in 2023 Q3
----
 - [ ] **In progress community models integration testing
 - [ ] prepare for personal and enterprise version, support running the whole system in offline mode.
 
 ## Updates in 2023 Q2
----
 ### Features added
 - Add vector db support
 - Google Vertex AI Integration
@@ -34,7 +32,6 @@
 - add relative time display
 
 ## Updates in 2023 Q1
----
   - Project initial launch
   - Basic chat implementation
   - Embedding implementation
