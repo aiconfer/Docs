@@ -59,7 +59,7 @@
       "state": "guide",
       "docPath": "assets/assistant/assistant.md",
       "disabled": false,
-      "icon": "flat",
+      "icon": "flag",
       "sub":[
         {
           "name": "Assistant",
