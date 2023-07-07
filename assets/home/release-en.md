@@ -1,7 +1,7 @@
 # AI Confer Release Notes
 
 ## Updates in 2023 Q3
-- [ ] **In progress community models integration testing
+- [ ] **In progress: community models integration testing**
 - [ ] prepare for personal and enterprise version, support running the whole system in offline mode.
 
 ## Updates in 2023 Q2
