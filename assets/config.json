@@ -54,6 +54,32 @@
       ]
     },
     {
+      "name": "User Guide",
+      "type": "dropDown",
+      "state": "guide",
+      "docPath": "assets/assistant/assistant.md",
+      "disabled": false,
+      "icon": "flat",
+      "sub":[
+        {
+          "name": "Assistant",
+          "type": "link",
+          "state": "assistant",
+          "docPath": "assets/assistant/assistant.md",
+          "tocEnabled": false,
+          "sub": [
+            {
+              "name": "Create Assistant",
+              "type": "link",
+              "state": "assistant-create",
+              "docPath": "assets/assistant/assistant-create.md",
+              "tocEnabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "AICONFER",
       "type": "extLink",
       "state": "https://aiconfer.com",

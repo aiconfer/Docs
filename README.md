@@ -25,7 +25,7 @@ AI Confer facilitates a variety of assistants or chat bots, ranging from those t
 + And much more!
 
 
-# Assistant Models supported
+# Models supported
 
 ## OpenAI:
 +  gpt-4-0613
