@@ -1,0 +1,2 @@
+# Project-Based Assistant
+A project or product based assistant can be served as a consult of your product for your customers or users. You can add your own dataset to tain this assistant, such product mannuals, QAs, .etc.

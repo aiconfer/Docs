@@ -69,10 +69,24 @@
           "tocEnabled": false,
           "sub": [
             {
-              "name": "Create Assistant",
+              "name": "Character-Based Assistant",
               "type": "link",
-              "state": "assistant-create",
-              "docPath": "assets/assistant/assistant-create.md",
+              "state": "assistant-character",
+              "docPath": "assets/assistant/assistant-character.md",
+              "tocEnabled": false
+            },
+            {
+              "name": "Project-Based Assistant",
+              "type": "link",
+              "state": "assistant-project",
+              "docPath": "assets/assistant/assistant-project.md",
+              "tocEnabled": false
+            },
+            {
+              "name": "Custom Assistant",
+              "type": "link",
+              "state": "assistant-custom",
+              "docPath": "assets/assistant/assistant-custom.md",
               "tocEnabled": false
             }
           ]
