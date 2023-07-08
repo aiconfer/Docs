@@ -7,7 +7,7 @@ We support three types of visibility for each assistant, private, public, or gra
 
 - Private Assistant
 
-    When you create an assistant in private mode, only you can see and talk to this assisant. and these is no credits limit for it. You can make it as public at any time you want.
+    When you create an assistant in private mode, only you can see and talk to this assisant. and these is no credits limit for it. You can make it as public at any time you want. Private assistant does not show on home page or search results.
 
 - Public Assistant
 
@@ -18,7 +18,9 @@ We support three types of visibility for each assistant, private, public, or gra
     You can also create an assistant for a group of people, such as your family, team, fans, or your own community. By default, team assistant is in private mode, and you should grant access permission to specific users manually.
 
 
+## Credits
 
+Credits is a virtual price for an assistant. When you create an awesome assistant, you can set credits to it and other people will pay this credits to you when they want to chat with your assistant. 1$ equals 10 credits. You can gain credits from two ways, the first, create an awesome assistant with credit set, and share it with community, the second, subscribe to a plan, and the credits will accumulate to your account every month. When you want to turn your credits into money, [email us](mailto:support@aiconfer.com) with your account information and we will schedule a payout. Note, we will charge 30% service fee including transaction for every payout.
 
 ### [Lear more about character-based assistant](https://docs.aiconfer.com/guide/assistant/assistant-character) 
 
