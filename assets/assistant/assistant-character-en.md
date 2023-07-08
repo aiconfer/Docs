@@ -3,13 +3,13 @@ A character-based assistant can perform tasks in a specific domain, such as a te
 
 ## Create Character-Based Assistant
 
-Creating a character-based assistant is quite straightforward, you should login in first, and the create button(a plus icon with circle) will show on right up corner of top bar.
+Creating a character-based assistant is quite straightforward, you should login in first, and the creation button(a plus icon with circle) will show on right up corner of top bar.
 
 1.  Click the create button, and select virtual character
 
-2.  Fill the information needed in basic step of create wizard.
+2.  Fill the information needed in basic step of creation wizard.
    + **Name**: type a name for this assistant, such as Docter Shaun, Jarvis, .etc.
-   + **Description**: a description message of this assistant, will display on assistant card. Markdown format is also supported, if you want to insert an image, use markdown format for image insertion.
+   + **Description**: a description message of this assistant, will be displayed on assistant card. Markdown format is also supported, if you want to insert an image, use markdown format for image insertion.
    + **Gender**: select a gender, it will be used for voice output.
    + **Avatar**: upload an avatar for this assistant if needed, click the editor button on right down corner of default avatar.
 
