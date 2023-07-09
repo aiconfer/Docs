@@ -62,30 +62,28 @@
           "type": "link",
           "state": "assistant",
           "docPath": "assets/assistant/assistant.md",
-          "tocEnabled": false,
-          "sub": [
-            {
-              "name": "Character-Based Assistant",
-              "type": "link",
-              "state": "assistant-character",
-              "docPath": "assets/assistant/assistant-character.md",
-              "tocEnabled": false
-            },
-            {
-              "name": "Project-Based Assistant",
-              "type": "link",
-              "state": "assistant-project",
-              "docPath": "assets/assistant/assistant-project.md",
-              "tocEnabled": false
-            },
-            {
-              "name": "Custom Assistant",
-              "type": "link",
-              "state": "assistant-custom",
-              "docPath": "assets/assistant/assistant-custom.md",
-              "tocEnabled": false
-            }
-          ]
+          "tocEnabled": false
+        },
+        {
+          "name": "Character-Based Assistant",
+          "type": "link",
+          "state": "assistant-character",
+          "docPath": "assets/assistant/assistant-character.md",
+          "tocEnabled": false
+        },
+        {
+          "name": "Project-Based Assistant",
+          "type": "link",
+          "state": "assistant-project",
+          "docPath": "assets/assistant/assistant-project.md",
+          "tocEnabled": false
+        },
+        {
+          "name": "Custom Assistant",
+          "type": "link",
+          "state": "assistant-custom",
+          "docPath": "assets/assistant/assistant-custom.md",
+          "tocEnabled": false
         }
       ]
     },
