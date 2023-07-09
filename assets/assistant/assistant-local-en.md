@@ -32,7 +32,7 @@ Due the embedding technology, for a new file, we will spilt your documents into 
 
 ### Why Data trained size is 0 or smaller than file size uploaded?
 
-We also use the cumulative value of all datasets uploaded to this assistant. For example, if you have two pdf files, pdf1 and pdf2, and the content of pdf2 is a clone or subset of pdf1, so, in this case, when we detected a document chunk has been already learned by this assistant, the data trained size will not include this document chunk, only newly added document will be learned by assistant, so the data trained size only include newly learned document size. 
+We also use the cumulative value of all datasets uploaded to this assistant. For example, if you have two pdf files, pdf1 and pdf2, and the content of pdf2 is a clone or subset of pdf1, in this case, when we detected a document chunk has been already learned by this assistant, the data trained size will not include this document chunk, only newly added document will be learned by assistant, so the data trained size only include newly learned document size. 
 
 Note, when you delete a base dataset that referenced by other datasets of this assistant, the memory from this dataset will be erased, even though the other datasets may contains the same memory, so pay attation to the order of datasets of this assistant when removing.
 
