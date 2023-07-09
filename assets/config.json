@@ -84,6 +84,27 @@
           "state": "assistant-custom",
           "docPath": "assets/assistant/assistant-custom.md",
           "tocEnabled": false
+        },
+        {
+          "name": "Manage Assistant",
+          "type": "link",
+          "state": "assistant-update",
+          "docPath": "assets/assistant/assistant-manage.md",
+          "tocEnabled": false
+        },
+        {
+          "name": "Add Local File",
+          "type": "link",
+          "state": "assistant-local",
+          "docPath": "assets/assistant/assistant-local.md",
+          "tocEnabled": false
+        },
+        {
+          "name": "Add Git Repository",
+          "type": "link",
+          "state": "assistant-git",
+          "docPath": "assets/assistant/assistant-git.md",
+          "tocEnabled": false
         }
       ]
     },
