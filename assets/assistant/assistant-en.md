@@ -1,4 +1,5 @@
 # Assistant
+An assistant also called chat bot is an AI object with predetermined functionality, tailored to the user’s preferences. It can be a customizable prompt defination or a fine-tuned model. 
 We support a variety of assistants, such as character-based, product or service-based, or other custom types of assistants. You can create assistant by the creation wizard, and add your own data to this assistant later. For each plan, the assisatant count is unlimited.
 
 ## Assistant Visibility

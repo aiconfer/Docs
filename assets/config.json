@@ -58,7 +58,7 @@
       "icon": "flag",
       "sub":[
         {
-          "name": "Assistant",
+          "name": "Assistant Overview",
           "type": "link",
           "state": "assistant",
           "docPath": "assets/assistant/assistant.md",
