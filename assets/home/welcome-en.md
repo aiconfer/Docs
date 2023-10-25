@@ -25,15 +25,21 @@ AI Confer facilitates a variety of assistants or chat bots, ranging from those t
 
 # Models supported
 
-## OpenAI:
-+  gpt-4-0613
-+  gpt-4-32k-0613
-+  gpt-3.5-turbo-0613
+## OpenAI
++  gpt-4
++  gpt-3.5-turbo
 +  gpt-3.5-turbo-16k
-+  text-davinci-003
++  gpt-3.5-turbo-instruct
 
 ## Google Vertex AI
 +  chat-bison@001
+
+## Community Models
++ Llama2-chat-7B/13B/70B
++ Qwen-Chat-7B
++ Falcon-Instruct-40B
++ Mistral-Instruct-7B
++ and more on the way!
 
 # Support & Help
 

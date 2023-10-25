@@ -1,8 +1,43 @@
 # AI Confer Release Notes
 
 ## Updates in 2023 Q3
-- [ ] **In progress: community models integration testing**
-- [ ] prepare for personal and enterprise version, support running the whole system in offline mode.
+### Add community models
+  The models supported from community are:
+-  Llama2-chat-7B/13B/70B
+-  Qwen-Chat-7B
+-  Falcon-Instruct-40B
+-  Mistral-Instruct-7B
+### Redesign model card
+- add assistant detail page
+- add comments support for assistant
+- add system instruction
+- add dataset display
+### Add more data source
+- CSV dataset 
+- RSS data source
+- Voice dataset
+  - supported type: .mp3, wav, webm
+- Video dataset
+  - supported type: mp4, avi, mov.
+- Online Video Provider
+  - Youtube
+  - X(twitter)
+  - Bilibili
+  - and More
+
+### Redesign chat UX
+- add chat history navigation toggle
+- add chat message edit and regenerate
+- add talk mode
+- update chat share ux
+
+### Others
+- bump AI messages limit for basic plan to 30 per day
+- bump dataset size limit for all plan
+
+
+
+[ ] prepare for personal and enterprise version, support running the whole system in offline mode.
 
 ## Updates in 2023 Q2
 ### Features added
