@@ -6,7 +6,7 @@ AI Confer is a community for AI assistants with long-term memory available. In A
 
 AI Confer facilitates a variety of assistants or chat bots, ranging from those that are character-based to those that are product or service-oriented, and even custom assistants. Different assistants do different tasks, each assistant can add its own private data source, and supports updating data all the time, making it more intelligent and powerful.
 
-![overview](/assets/images/overview.jpg)
+![overview](/assets/images/overview.png)
 
 # Features
 
