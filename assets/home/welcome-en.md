@@ -6,6 +6,7 @@ AI Confer is a community for AI assistants with long-term memory available. In A
 
 AI Confer facilitates a variety of assistants or chat bots, ranging from those that are character-based to those that are product or service-oriented, and even custom assistants. Different assistants do different tasks, each assistant can add its own private data source, and supports updating data all the time, making it more intelligent and powerful.
 
+![overview](/assets/images/overview.jpg)
 
 # Features
 
@@ -44,3 +45,7 @@ AI Confer facilitates a variety of assistants or chat bots, ranging from those t
 # Support & Help
 
 We value and appreciate your feedback, bug reports, and feature requests. You may reach us on [Twitter](https://twitter.com/AiConfer), [YouTube](https://www.youtube.com/channel/UCbLGVbs_3V4hkZHVdfk-ZpA), or join our [Discord](https://discord.gg/4JaeYr9Vqk) to directly communicate with us. In addition, please do not hesitate to send us an [Email](mailto:support@aiconfer.com) if you have any inquiries.
+
+# License
+Copyright 2023 [SheenCloud](https://sheencloud.com) SheenCloud Technology, Inc.
+
